@@ -17,8 +17,8 @@ Six book series by Kyle Simpson. In-depth series on every aspect of JavaScript.
 - [Github](https://github.com/getify/You-Dont-Know-JS)(free)
 - [Kindle Version, Amazon](https://www.amazon.com/You-Dont-Know-Js-Book/dp/B01AY9P0P6)
 
-*JavaScript: The Good Parts*
-Book by the "grandfather" of JavaScript, Douglas Crockford. He discusses both the "good" and "bad" parts of JavaScript.
+"JavaScript: The Good Parts"
+Book by the "grandfather" of JavaScript, Douglas Crockford. He discusses both the "good" and "bad" parts of JavaScript. This is really informative book
 
 - [Amazon](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
